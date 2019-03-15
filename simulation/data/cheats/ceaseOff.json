@@ -1,0 +1,8 @@
+{
+    "Name": "fight!",
+    "Data": {
+        "Action": "ceaseStop",
+        "DefaultParameter": 1,
+        "IsNumeric": true
+    }
+}

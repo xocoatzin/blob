@@ -1,0 +1,8 @@
+{
+    "Name": "wait!",
+    "Data": {
+        "Action": "ceaseStart",
+        "DefaultParameter": 10,
+        "IsNumeric": true
+    }
+}
